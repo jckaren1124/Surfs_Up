@@ -17,3 +17,15 @@ The purpose of this analysis is to determine the suitability of operating an ice
 
 
 ## Summary
+
+
+![image](https://user-images.githubusercontent.com/89353378/141834245-7c672188-03a6-420e-8fd9-8baa874824e4.png)
+![image](https://user-images.githubusercontent.com/89353378/141834123-4a5347d9-c7fd-45a8-82be-47e6146cd37d.png)
+
+**Mean, median, and mode precipitation levels in June**.\
+![image](https://user-images.githubusercontent.com/89353378/141834550-ac1f3bce-7f84-4c3b-84bb-5c7fafae7277.png)
+
+**Mean, median, and mode precipitation levels in December**.\
+![image](https://user-images.githubusercontent.com/89353378/141834678-89ebae17-c5df-4097-b8b2-1b33b74a307e.png)
+
+
