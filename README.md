@@ -28,4 +28,6 @@ The purpose of this analysis is to determine the suitability of operating an ice
 **Mean, median, and mode precipitation levels in December**.\
 ![image](https://user-images.githubusercontent.com/89353378/141834678-89ebae17-c5df-4097-b8b2-1b33b74a307e.png)
 
+Based on the mean precipitation levels, it appears that the amount of rain in December is almost double than June. Maximum rainfall in June (4.43) and December (6.42) is quite high considering heavy rainfall is more than 0.30 inches of rain per hour. However, the median precipitation level in June and December are 0.02 and 0.03, respectively. This means most days in June and December have very light or no rain, indicating that majority of the days are great for surfing. As for the temperature data, mean temperature in June and December are in the low to mid seventies with the maximum temperature in the mid eighties and minimum temperature in mid sixties (june) to mid fifties (December). These are ideal temperatures for ice cream purchases, although December sales might be a little lower than June. Overall, Oahu seems to be an ideal location to operate a surf and ice cream shop business.
+
 
