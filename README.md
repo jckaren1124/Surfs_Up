@@ -8,6 +8,14 @@ The purpose of this analysis is to determine the suitability of operating an ice
 
 ![image](https://user-images.githubusercontent.com/89353378/141724206-c56409e8-2ec7-4ff4-9658-0ab606683274.png)
      ![image](https://user-images.githubusercontent.com/89353378/141724362-2f07272f-5aff-440a-a84e-337675982459.png)
+     
+•	Temperature data in June is likely more accurate than temperature data in December since the June data contains almost 200 more data points (roughly 6 more months of data).
+
+•	The minimum temperature difference between June and December shows an 8 degree difference.
+
+•	The standard deviation 
+
+
 
 
 
